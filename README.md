@@ -42,5 +42,13 @@ This Python script fetches the current weather conditions for a specified city u
 
 2. The script will output the current temperature, weather description, and how it feels like in Celsius for the specified city.
 
-## Example
+
+## Notes
+
+- Ensure that your API key is valid and that you have internet access when running the script.
+- You can obtain an API key by signing up at [OpenWeatherMap](https://openweathermap.org/).
+
+## License
+
+This project free to use and anyone can recreate.
 
